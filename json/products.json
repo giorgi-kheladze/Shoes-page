@@ -1,0 +1,202 @@
+[
+    {
+        "image": "../assets/adidas/adidas-black-1.png",
+        "title": "Adidas shoe1",
+        "price": 50,
+        "color": "black",
+        "name": "Black",
+        "brand": "adidas"
+    },
+    {
+        "image": "../assets/adidas/adidas-black-2.png",
+        "title": "Adidas shoe2",
+        "price": 110,
+        "color": "black",
+        "name": "Black",
+        "brand": "adidas"
+    },    {
+        "image": "../assets/adidas/adidas-black-3.png",
+        "title": "Adidas shoe3",
+        "price": 199,
+        "color": "black",
+        "name": "Black",
+        "brand": "adidas"
+    },
+    {
+        "image": "../assets/adidas/adidas-black-4.png",
+        "title": "Adidas shoe4",
+        "price": 60,
+        "color": "black",
+        "name": "Black",
+        "brand": "adidas"
+    },
+    {
+        "image": "../assets/adidas/adidas-white-1.png",
+        "title": "Adidas shoe5",
+        "price": 300,
+        "color": "white",
+        "name": "White",
+        "brand": "adidas"
+    },
+    {
+        "image": "../assets/adidas/adidas-white-2.png",
+        "title": "Adidas shoe6",
+        "price": 99,
+        "color": "white",
+        "name": "White",
+        "brand": "adidas"
+    },
+    {
+        "image": "../assets/adidas/adidas-white-3.png",
+        "title": "Adidas shoe7",
+        "price": 120,
+        "color": "white",
+        "name": "White",
+        "brand": "adidas"
+    },
+    {
+        "image": "../assets/adidas/adidas-white-4.png",
+        "title": "Adidas shoe8",
+        "price": 99,
+        "color": "white",
+        "name": "White",
+        "brand": "adidas"
+    },
+    {
+        "image": "../assets/adidas/adidas-mix-1.png",
+        "title": "Adidas shoe9",
+        "price": 160,
+        "color": "mixed",
+        "name": "Mixed",
+        "brand": "adidas"
+    },
+    {
+        "image": "../assets/adidas/adidas-mix-2.png",
+        "title": "Adidas shoe10",
+        "price": 260,
+        "color": "mixed",
+        "name": "Mixed",
+        "brand": "adidas"
+    },
+
+    {
+        "image": "../assets/nike/nike-black-1.png",
+        "title": "Nike shoe1",
+        "price": 120,
+        "color": "black",
+        "name": "Black",
+        "brand": "nike"
+    },
+    {
+        "image": "../assets/nike/nike-black-2.png",
+        "title": "Nike shoe2",
+        "price": 190,
+        "color": "black",
+        "name": "Black",
+        "brand": "nike"
+    },
+    {
+        "image": "../assets/nike/nike-black-3.png",
+        "title": "Nike shoe3",
+        "price": 200,
+        "color": "black",
+        "name": "Black",
+        "brand": "nike"
+    },
+    {
+        "image": "../assets/nike/nike-black-4.png",
+        "title": "Nike shoe4",
+        "price": 110,
+        "color": "black",
+        "name": "Black",
+        "brand": "nike"
+    },
+    {
+        "image": "../assets/nike/nike-white-1.png",
+        "title": "Nike shoe5",
+        "price": 60,
+        "color": "white",
+        "name": "White",
+        "brand": "nike"
+    },
+    {
+        "image": "../assets/nike/nike-white-2.png",
+        "title": "Nike shoe6",
+        "price": 130,
+        "color": "white",
+        "name": "White",
+        "brand": "nike"
+    },
+    {
+        "image": "../assets/nike/nike-white-3.png",
+        "title": "Nike shoe7",
+        "price": 220,
+        "color": "white",
+        "name": "White",
+        "brand": "nike"
+    },
+    {
+        "image": "../assets/nike/nike-white-4.png",
+        "title": "Nike shoe8",
+        "price": 160,
+        "color": "white",
+        "name": "White",
+        "brand": "nike"
+    },
+    {
+        "image": "../assets/nike/nike-mix-1.png",
+        "title": "Nike shoe9",
+        "price": 90,
+        "color": "mixed",
+        "name": "Mixed",
+        "brand": "nike"
+    },
+    {
+        "image": "../assets/nike/nike-mix-2.png",
+        "title": "Nike shoe10",
+        "price": 140,
+        "color": "mixed",
+        "name": "Mixed",
+        "brand": "nike"
+    },
+    {
+        "image": "../assets/puma/puma-black-1.png",
+        "title": "Puma shoe1",
+        "price": 80,
+        "color": "black",
+        "name": "Black",
+        "brand": "puma"
+    },
+    {
+        "image": "../assets/puma/puma-black-2.png",
+        "title": "Puma shoe2",
+        "price": 180,
+        "color": "black",
+        "name": "Black",
+        "brand": "puma"
+    },
+    {
+        "image": "../assets/puma/puma-black-3.png",
+        "title": "Puma shoe3",
+        "price": 230,
+        "color": "black",
+        "name": "Black",
+        "brand": "puma"
+    },
+    {
+        "image": "../assets/puma/puma-white-1.png",
+        "title": "Puma shoe4",
+        "price": 110,
+        "color": "white",
+        "name": "White",
+        "brand": "puma"
+    },
+    {
+        "image": "../assets/puma/puma-white-2.png",
+        "title": "Puma shoe5",
+        "price": 110,
+        "color": "white",
+        "name": "White",
+        "brand": "puma"
+    }
+]

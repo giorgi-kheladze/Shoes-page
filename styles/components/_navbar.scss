@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    border-bottom: 1px solid rgb(201, 200, 200);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    background-color: rgb(205, 206, 206);
+    .left-side{
+        p{
+            font-size: 20px;
+        }
+    }
+    .right-side{
+        width: 400px;
+        padding: auto 30px;
+        ul{
+            display: flex;
+            justify-content: space-between;
+            font-size: 18px;
+            li{
+                a{
+                    color: grey;
+                }
+            }
+        }
+    }
+}

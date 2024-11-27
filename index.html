@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="giorgi kheladze">
+    <meta name="description" content="shoes landing page">
+    <meta name="keywords" content="Nike, Adidas, Puma">
+    <link rel="stylesheet" href="./styles/css/global.css">
+    <link rel="icon" href="">
+    <title>Shoes store</title>
+    <meta property="og:title" content="Shoes store">
+    <meta property="og:description" content="shoes landing page">
+    <meta property="og:image" content="">
+    <meta property="og:url" content="">
+    <meta property="og:type" content="website">
+
+    <link rel="stylesheet"
+    href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+</head>
+<body>
+    <!-- navbar -->
+     <nav class="navbar">
+        <div class="left-side">
+            <p class="navbar-logo">Online Shop</p>
+        </div>
+        <div class="right-side">
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">Shoes</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Login</a></li>
+            </ul>
+        </div>
+     </nav>
+
+     <section class="section">
+        <aside>
+            <div class="price sort">
+                <div class="filter">
+                    <p>price</p>
+                    <i class='bx bx-chevron-right'></i>
+                </div>
+                <ul class="list">
+                    <li id="low">low</li>
+                    <li id="medium">medium</li>
+                    <li id="expensive">expensive</li>
+                </ul>
+            </div>
+            <div class="brand sort">
+                <div class="filter">
+                    <p>brand</p>
+                    <i class='bx bx-chevron-right' onclick="show()"></i>
+                </div>
+                <ul class="list">
+                    <li id="nike">nike</li>
+                    <li id="adidas">adidas</li>
+                    <li id="puma">puma</li>
+                </ul>
+            </div>
+            <div class="color sort">
+                <div class="filter">
+                    <p>color</p>
+                    <i class='bx bx-chevron-right'></i>
+                </div>
+                <ul class="list">
+                    <li id="white">white</li>
+                    <li id="black">black</li>
+                    <li id="mixed">mixed</li>
+                </ul>
+            </div>
+
+            <div class="promo">
+                <p>Enter promo code</p>
+                <input type="text" id="input">
+                <button id="submit">Submit</button>
+            </div>
+         </aside>
+
+         <div class="products"></div>
+     </section>
+
+     <!-- footer -->
+     <footer>
+        <div class="container">
+            <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+            <ul class="social-links">
+                <li><a href="#">Facebook</a></li>
+                <li><a href="#">Twitter</a></li>
+                <li><a href="#">Instagram</a></li>
+            </ul>
+        </div>
+     </footer>
+     <script src="./js/index.js"></script>
+     <script src="./js/filter.js"></script>
+</body>
+</html>

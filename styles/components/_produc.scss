@@ -1,0 +1,23 @@
+.products{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 70px;
+    .product{
+        text-align: center;
+        overflow: hidden;
+        img{
+            cursor: pointer;
+            width: 300px;
+            border-radius: 5px;
+            transition: all 0.6s ease;
+        }
+        img:hover{
+            transform: scale(1.1);
+        }
+        .title{
+            margin-top: 15px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+    }
+}
